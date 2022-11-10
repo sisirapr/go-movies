@@ -19,6 +19,5 @@ To secure access to authenticated users for certain parts  of our site, we use J
 **Thanks to [Trevor Sawler](https://udemy.com/user/trevor-sawler/)**
 
 ### React Lifecycle Methods
-![react lifecycle diagram](https://miro.medium.com/max/1400/1*YzoEojGlmaRYjSl_RN-W6g.png)
 
 ![react lifecycle deep diagram](https://i1.wp.com/programmingwithmosh.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-31-at-1.44.28-PM.png?ssl=1)
