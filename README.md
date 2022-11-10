@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# A single page application in React, with data supplied by a Go back end REST API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Course referred [Working with React and Go (Golang)](https://e2.udemymail.com/ls/click?upn=s5Pt16BViR0zgCI1xSXEEtHGh8BdP1yCD9eapQc5g8JGUI2JZ5ZHXMWGpFLGw5qDVnRVxC5gw0E4ExHTWz2cjFDm-2B2kvpIDlzuqNvlhbm4WQPByjhatkqOHaDfhOgbNzxk8rng4-2FkDI35S9sAx4VbZ1QA50OABDUIK-2B9uuwfcO4aHH6xKSk7OHg7n1PP8FlUWimUnai-2BJnb4iISKn-2FSMXkaKYdJZTVH-2FbrQp4y73OiiNan8Y-2BUV0e7WGuz8Cml6hGKvlHOf8SO2tPaPZJ5Fy4w-3D-3Dyly9_DYTu1JLF-2FPhTdZDO57SRv6VCQlHrhkZv4KsHMpdvAAJgXRVN4-2BaDb-2FPgQq32lqKLBNI8CAkQdP4Osr2tSnvrsTZJEki-2FpnARQxDZmxgIOq5qrJhDv7w9HSGTHf5BcV5OQCTgNKwME2GwywrChp-2B56VEyLcA2IzZX8EtQT-2FpsSDy5uuhuS5sSrGdMWJtvn0syThQlAHDK42zJv-2BZ0vCVt-2BcgnaZqRMBNtXLSCQuSqbbo2LEBbRkshO5Du4deHLCNZOBeO2EvgGmLnDwHQWF5STayk-2FcwuztuYtX8CYy915LyKXl5pC9qGyOPi4PWWqURLNgmk97Tjhv5cM-2ByhLQfcq1e8r5azlau2ARDii-2F6SMLiJUsw5Q-2BFbxGlhalfVyTO4dq57AuUcXu998qSMBDiVCOvqEcudOID347XJVYHjmiYYNMYf8QgVrcGJC-2BoJdhtm).
 
-## Available Scripts
+## Contents
+* Single page application with React JS
+* Reusable, composable components in React
+* REST API in Go that handles JSON requests, and serves JSON responses
+* API in Go that handles GraphQL requests
 
-In the project directory, you can run:
+### Description
 
-### `npm start`
+React is the world's most popular JavaScript library for building Single Page Applications, and Go is uniquely well-suited for building REST back ends.
+React is an open-source, front end JavaScript library for building user interfaces or UI components.
+Go is a modern, type safe, compiled, and extremely fast programming language. It it is ideally suited for building safe, scalable, incredibly fast REST APIs and web applications.
+Receiving requests on the back end, both as JSON and as GraphQL, and returning that response as JSON.
+To secure access to authenticated users for certain parts  of our site, we use JSON Web Tokens (JWT).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Thanks to [Trevor Sawler](https://udemy.com/user/trevor-sawler/)**
