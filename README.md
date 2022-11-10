@@ -17,3 +17,8 @@ Receiving requests on the back end, both as JSON and as GraphQL, and returning t
 To secure access to authenticated users for certain parts  of our site, we use JSON Web Tokens (JWT).
 
 **Thanks to [Trevor Sawler](https://udemy.com/user/trevor-sawler/)**
+
+### React Lifecycle Methods
+![react lifecycle diagram](https://www.google.com/url?sa%3Di%26url%3Dhttps%3A%2F%2Fgist.github.com%2Fross-u%2Fdade01d6a7e03f2aa064383d6515567a%26psig%3DAOvVaw0cRN-J8wOLAURgpilFcMGm%26ust%3D1668145202978000%26source%3Dimages%26cd%3Dvfe%26ved%3D0CBAQjRxqFwoTCLDE0abzovsCFQAAAAAdAAAAABAS)l/to/img.png)
+
+![react lifecycle deep diagram](https://www.google.com/url?sa%3Di%26url%3Dhttps%3A%2F%2Fprogrammingwithmosh.com%2Fjavascript%2Freact-lifecycle-methods%2F%26psig%3DAOvVaw0cRN-J8wOLAURgpilFcMGm%26ust%3D1668145202978000%26source%3Dimages%26cd%3Dvfe%26ved%3D0CBAQjRxqFwoTCLDE0abzovsCFQAAAAAdAAAAABAc)
